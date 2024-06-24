@@ -16,7 +16,7 @@ Maven
 MySQL Server
 Setup
  Clone the repository:
-1. **git clone https://github.com/your-username/dashboard-project.git**
+1. **git clone https://github.com/sohail786906/dashboard-project.git**
 cd dashboard-project
 
 2. Database Configuration:
